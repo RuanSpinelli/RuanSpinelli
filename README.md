@@ -10,4 +10,4 @@ I'm Ruan Spinelli
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanSpinelli&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
