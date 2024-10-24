@@ -8,3 +8,6 @@ I'm Ruan Spinelli
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanSpinelli)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanSpinelli&show_icons=true&theme=radical)
+
+
