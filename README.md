@@ -3,7 +3,7 @@
 I'm Ruan Spinelli
 
 - 📚 IT student
-- ⚙️ Learning python
+- ⚙️ my main language is python with Flask and Django
 - ♂️ He/Him
 
 
