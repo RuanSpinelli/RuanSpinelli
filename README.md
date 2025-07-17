@@ -1,10 +1,14 @@
-### ``` 🤖 Hello world```
+## ```System.out.println("Hello world");```
 
-I'm Ruan Spinelli
+# ☕ Ruan Spinelli | Backend Developer (Java)
 
-- 📚 IT student
-- ⚙️ backend dev
-- ♂️ He/Him
+```java
+public class Developer {
+    private final String name = "Ruan Spinelli";
+    private final String role = "Backend Developer";
+    private final String stack = "Java | Servlets | JSP | JDBC | MVC";
+    private final String focus = "APIs REST, Testes, Clean Code";
+}
 
 
 
